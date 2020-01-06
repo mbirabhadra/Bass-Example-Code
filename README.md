@@ -1,5 +1,5 @@
-# Bass-Example-Code
+# Bass-Starter-Code
 
-Shows how to use Bass
-DXE5 Tested
+Shows how to use Bass.
+Put Bass.dll in root directory.
 
